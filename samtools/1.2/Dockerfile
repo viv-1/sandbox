@@ -51,9 +51,6 @@ USER biodocker
 # CHANGE WORKDIR TO /DATA
 WORKDIR /data
 
-# DEFINE DEFAULT COMMAND
-CMD ["samtools"]
-
 ##################### INSTALLATION END #####################
 
 # File Author / Maintainer
